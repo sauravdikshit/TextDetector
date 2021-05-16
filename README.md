@@ -1,0 +1,2 @@
+# TextDetector
+Using OCR Technology
